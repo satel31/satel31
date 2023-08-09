@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Tatiana Blokhnina and I'm a Python Developer. I'm from Russia, living in Yaroslavl.
+My name is Tatiana and I'm a Python Developer. I'm from Russia, living in Yaroslavl.
 
 - 🌱 I’m currently learning Python, HTML and CSS
-- 📫 How to reach me: blokhnina.tatiana@yandex.ru
+- 📫 You always can reach me: blokhnina.tatiana@yandex.ru
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
