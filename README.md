@@ -22,6 +22,6 @@ My name is Tatiana and I'm a Python Developer. I'm from Russia, living in Yarosl
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-
-
+## Random daily joke:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
