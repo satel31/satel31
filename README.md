@@ -3,7 +3,11 @@
 My name is Tatiana and I'm a Python Developer. I'm from Russia, living in Yaroslavl.
 
 - 🌱 I’m currently learning Python, HTML and CSS
-- 📫 You always can reach me: blokhnina.tatiana@yandex.ru
+- 📫 You always can reach me:
+  <a href="mailto:blokhnina.tatiana@yandex.ru"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	 <a href="https://wa.me/79159830860"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://t.me/satel_s"><img src="https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
