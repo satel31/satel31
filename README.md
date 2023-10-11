@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tatiana and I'm a Python Developer. I'm from Russia, living in Yaroslavl.
+My name is Tatiana and I'm a Python Developer. I'm from Russia.
 
 - 🌱 I’m currently also learning HTML and CSS
 - 📫 You always can reach me:
