@@ -2,7 +2,7 @@
 
 My name is Tatiana and I'm a Python Developer. I'm from Russia.
 
-- 🌱 I’m currently also learning HTML and CSS
+- 🌱 I’m currently developing my Python skills.
 - 📫 You always can reach me:
   <a href="mailto:blokhnina.tatiana@yandex.ru"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	 <a href="https://wa.me/79159830860"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
